@@ -1,4 +1,3 @@
-import CardGame from "./src/components/CardGame";
 import './src/styles/settings/colors.css'
 import './src/styles/generic/reset.css'
 import BoardGame from "./src/objects/BoardGame";
